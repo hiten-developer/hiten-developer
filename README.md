@@ -1,5 +1,4 @@
 # Hi, I'm Hiten Prajapati 👋
-
 **Backend Developer** · Anand, Gujarat, India
 
 I'm a passionate backend developer currently building real-world projects to land my first dev job. I love turning ideas into working APIs and full-stack applications.
@@ -7,7 +6,6 @@ I'm a passionate backend developer currently building real-world projects to lan
 ---
 
 ## 🚀 What I'm Working On
-
 - 🔭 Building full-stack projects to strengthen my backend skills
 - 🌱 Currently learning **Backend Development** — Node.js, Express, MongoDB
 - 💼 Actively looking for **Entry-Level Backend / Full Stack Developer** roles
@@ -16,7 +14,6 @@ I'm a passionate backend developer currently building real-world projects to lan
 ---
 
 ## 🛠️ Tech Stack
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -28,7 +25,7 @@ I'm a passionate backend developer currently building real-world projects to lan
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 ### 🗒️ Doto — Full Stack Todo App
 > A production-ready todo application with complete authentication system
@@ -42,16 +39,27 @@ I'm a passionate backend developer currently building real-world projects to lan
 
 ---
 
+### 📝 SmartNotes — Full Stack Notes App
+> A production-grade notes application with secure private note management
+
+- 🔐 JWT Authentication — Signup, Login, Protected Routes
+- 📝 Full CRUD — Create, Read, Update, Delete Notes
+- 🛡️ Ownership verification — users can only access their own notes
+- 🔍 Live search across all notes by title and content
+- ☁️ Deployed on **Vercel** (Frontend) + **Render** (Backend) + **MongoDB Atlas**
+- 📱 Fully responsive UI built with vanilla HTML, CSS, JS
+
+**Live:** [smart-notes-db8l1vhar-hiten-developers-projects.vercel.app](https://smart-notes-db8l1vhar-hiten-developers-projects.vercel.app) &nbsp;|&nbsp; **Code:** [github.com/hiten-developer/smart-notes-app](https://github.com/hiten-developer/smart-notes-app)
+
+---
+
 ## 📊 GitHub Stats
-
 ![Hiten's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiten-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiten-developer&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📫 Contact Me
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajapatihiten2510@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiten-datascience-ml/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hiten-developer)
@@ -61,5 +69,4 @@ I'm a passionate backend developer currently building real-world projects to lan
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hiten-developer&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
-
 <p align="center"><i>"Code every day. Learn every day. Ship every day."</i></p>
