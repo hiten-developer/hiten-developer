@@ -53,12 +53,6 @@ I'm a passionate backend developer currently building real-world projects to lan
 
 ---
 
-## 📊 GitHub Stats
-![Hiten's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiten-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiten-developer&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajapatihiten2510@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiten-datascience-ml/)
